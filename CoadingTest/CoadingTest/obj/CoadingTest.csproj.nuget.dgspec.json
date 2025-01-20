@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GametubeGD\\source\\repos\\CoadingTest\\CoadingTest\\CoadingTest.csproj": {}
+    "C:\\Users\\GametubeGD\\Desktop\\Github\\CoadingTranning\\CoadingTest\\CoadingTest\\CoadingTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GametubeGD\\source\\repos\\CoadingTest\\CoadingTest\\CoadingTest.csproj": {
+    "C:\\Users\\GametubeGD\\Desktop\\Github\\CoadingTranning\\CoadingTest\\CoadingTest\\CoadingTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GametubeGD\\source\\repos\\CoadingTest\\CoadingTest\\CoadingTest.csproj",
+        "projectUniqueName": "C:\\Users\\GametubeGD\\Desktop\\Github\\CoadingTranning\\CoadingTest\\CoadingTest\\CoadingTest.csproj",
         "projectName": "CoadingTest",
-        "projectPath": "C:\\Users\\GametubeGD\\source\\repos\\CoadingTest\\CoadingTest\\CoadingTest.csproj",
+        "projectPath": "C:\\Users\\GametubeGD\\Desktop\\Github\\CoadingTranning\\CoadingTest\\CoadingTest\\CoadingTest.csproj",
         "packagesPath": "C:\\Users\\GametubeGD\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GametubeGD\\source\\repos\\CoadingTest\\CoadingTest\\obj\\",
+        "outputPath": "C:\\Users\\GametubeGD\\Desktop\\Github\\CoadingTranning\\CoadingTest\\CoadingTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GametubeGD\\AppData\\Roaming\\NuGet\\NuGet.Config",

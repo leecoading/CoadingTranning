@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CoadingTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9e475a237ace63715cd52dee7856faa8105b467")]
 [assembly: System.Reflection.AssemblyProductAttribute("CoadingTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CoadingTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
