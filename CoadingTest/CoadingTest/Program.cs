@@ -1,7 +1,6 @@
 ﻿namespace CoadingTest
 {
     #region 1 코딩 기초 트레이닝 - 원하는 문자열 찾기(2025.01.20)
-    using System;
 
     public class Solution
     {
@@ -50,4 +49,41 @@
         }
     }
     #endregion
+
+    #region 3 코딩 테스트 연습 - 연습문제 - 문자열 나누기(2025.01.21)
+    public class Solution3
+    {
+        public int solution3(string s)
+        {
+            int answer = 1;
+            char sWord = ' ';
+            int sameX = 0;
+            int elseX = 0;
+
+            for (int i = 0; i < s.Length; i++)
+            {
+                if (i == 0)
+                {
+                    sWord = s[0];
+                }
+                if (sameX == elseX && sameX != 0)
+                {
+                    sameX = 0;
+                    elseX = 0;
+                    answer++;
+                    sWord = s[i];
+                }
+                if (s[i] == sWord)
+                {
+                    sameX++;
+                }
+                if (s[i] != sWord)
+                {
+                    elseX++;
+                }
+            }
+            return answer;
+        }
+    }
+    #endregion(2025.01.
 }

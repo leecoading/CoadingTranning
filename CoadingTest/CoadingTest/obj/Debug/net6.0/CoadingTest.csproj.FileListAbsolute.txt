@@ -1,0 +1,15 @@
+C:\Users\GametubeGD\Desktop\Github\CoadingTranning\CoadingTest\CoadingTest\bin\Debug\net6.0\CoadingTest.exe
+C:\Users\GametubeGD\Desktop\Github\CoadingTranning\CoadingTest\CoadingTest\bin\Debug\net6.0\CoadingTest.deps.json
+C:\Users\GametubeGD\Desktop\Github\CoadingTranning\CoadingTest\CoadingTest\bin\Debug\net6.0\CoadingTest.runtimeconfig.json
+C:\Users\GametubeGD\Desktop\Github\CoadingTranning\CoadingTest\CoadingTest\bin\Debug\net6.0\CoadingTest.dll
+C:\Users\GametubeGD\Desktop\Github\CoadingTranning\CoadingTest\CoadingTest\bin\Debug\net6.0\CoadingTest.pdb
+C:\Users\GametubeGD\Desktop\Github\CoadingTranning\CoadingTest\CoadingTest\obj\Debug\net6.0\CoadingTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GametubeGD\Desktop\Github\CoadingTranning\CoadingTest\CoadingTest\obj\Debug\net6.0\CoadingTest.AssemblyInfoInputs.cache
+C:\Users\GametubeGD\Desktop\Github\CoadingTranning\CoadingTest\CoadingTest\obj\Debug\net6.0\CoadingTest.AssemblyInfo.cs
+C:\Users\GametubeGD\Desktop\Github\CoadingTranning\CoadingTest\CoadingTest\obj\Debug\net6.0\CoadingTest.csproj.CoreCompileInputs.cache
+C:\Users\GametubeGD\Desktop\Github\CoadingTranning\CoadingTest\CoadingTest\obj\Debug\net6.0\CoadingTest.sourcelink.json
+C:\Users\GametubeGD\Desktop\Github\CoadingTranning\CoadingTest\CoadingTest\obj\Debug\net6.0\CoadingTest.dll
+C:\Users\GametubeGD\Desktop\Github\CoadingTranning\CoadingTest\CoadingTest\obj\Debug\net6.0\refint\CoadingTest.dll
+C:\Users\GametubeGD\Desktop\Github\CoadingTranning\CoadingTest\CoadingTest\obj\Debug\net6.0\CoadingTest.pdb
+C:\Users\GametubeGD\Desktop\Github\CoadingTranning\CoadingTest\CoadingTest\obj\Debug\net6.0\CoadingTest.genruntimeconfig.cache
+C:\Users\GametubeGD\Desktop\Github\CoadingTranning\CoadingTest\CoadingTest\obj\Debug\net6.0\ref\CoadingTest.dll
