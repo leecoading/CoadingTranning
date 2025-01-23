@@ -86,4 +86,25 @@
         }
     }
     #endregion(2025.01.
+
+    #region 4 코딩 테스트 연습 - 코딩 기초 트레이닝 - 배열의 원소만큼 추가하기(2025.01.23)
+    public class Solution4
+    {
+        public int[] solution(int[] arr)
+        {
+            List<int> answer = new List<int>();
+
+            for (int i = 0; i < arr.Length; i++)
+            {
+                for (int j = 0; j < arr[i]; j++)
+                {
+                    answer.Add(arr[i]);
+                }
+            }
+
+
+            return answer.ToArray();
+        }
+    }
+    #endregion
 }
