@@ -1,4 +1,6 @@
-﻿namespace CoadingTest
+﻿using System.Security.Cryptography.X509Certificates;
+
+namespace CoadingTest
 {
     #region 1 코딩 기초 트레이닝 - 원하는 문자열 찾기(2025.01.20)
 
@@ -107,4 +109,33 @@
         }
     }
     #endregion
+
+    #region 5 코딩 테스트 연습 - 코딩 기초 트레이닝 - 배열 만들기 2(2025.01.24)
+    public class Solution5
+    {
+        public int[] solution(int l, int r)
+        {
+            List<int> answer = new List<int>();
+
+            for (int i = l; i <= r; i++)
+            {
+                string str = i.ToString();
+                if (str.Contains('1')) continue;
+                if (str.Contains('2')) continue;
+                if (str.Contains('3')) continue;
+                if (str.Contains('4')) continue;
+                if (str.Contains('6')) continue;
+                if (str.Contains('7')) continue;
+                if (str.Contains('8')) continue;
+                if (str.Contains('9')) continue;
+
+                answer.Add(i);
+            }
+            if (answer.Count == 0) answer.Add(-1);
+            return answer.ToArray();
+        }
+    }
+    #endregion
+
 }
+
